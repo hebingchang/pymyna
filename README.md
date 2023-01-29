@@ -1,5 +1,5 @@
 # PyMyna
-A Python interface to interact with My Number Card (マイナンバーカード).
+A Python interface to interact with [My Number Card (マイナンバーカード)](https://www.kojinbango-card.go.jp/).
 
 🚧 This package is still under heavy development and cannot work properly. DO NOT USE IT IN PRODUCTION!
 
