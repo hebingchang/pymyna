@@ -17,6 +17,9 @@ options:
   -h, --help          show this help message and exit
 ```
 
+## Supported Devices
+- [Sony PaSoRi RC-S300/S](https://www.sony.co.jp/Products/felica/business/products/reader/RC-S300.html)
+
 ## Unit Test
 `AUTH_PIN=${your_auth_pin} SIGN_PIN=${your_sign_pin} python3 myna/myna_test.py`
 
