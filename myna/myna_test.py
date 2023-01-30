@@ -6,7 +6,7 @@ from myna.core.reader import MyNumberCardReader
 import unittest
 
 
-class TestStringMethods(unittest.TestCase):
+class TestMyNaMethods(unittest.TestCase):
     reader = MyNumberCardReader()
     auth_pin = os.getenv('AUTH_PIN')
     sign_pin = os.getenv('SIGN_PIN')
